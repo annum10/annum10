@@ -33,7 +33,7 @@
 ### 📈 Dashboard in Power BI
 - Interactive dashboard for business insights
 - KPIs, filters, and dynamic visuals
-- 🔗 [Project Link]
+- 🔗 https://github.com/annum10/Churn-Dashboard/blob/main/Churn%20analysis.pbix
 
 ### 🧹 Data Cleaning Project
 - Cleaned messy datasets using Python
